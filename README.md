@@ -12,7 +12,7 @@ interactive card project made by React, typescript and redux-toolkit
 
 ### Links
 
-- Live Site URL: [To-Do-List](https://olegbobokhidze-unilab-project.vercel.app/)
+- Live Site URL: [card-project](https://oleg-bobokhidze-card-project.vercel.app/)
 
 
 ### Built with
